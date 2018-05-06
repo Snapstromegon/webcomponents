@@ -4,7 +4,8 @@
   "description": "Small http express static file server",
   "main": "index.js",
   "scripts": {
-    "test": "node ."
+    "test": "node .",
+    "start": "node ."
   },
   "author": "",
   "license": "ISC",
