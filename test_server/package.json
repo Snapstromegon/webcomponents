@@ -1,0 +1,14 @@
+{
+  "name": "test_server",
+  "version": "1.0.0",
+  "description": "Small http express static file server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
